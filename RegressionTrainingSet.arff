@@ -1,4 +1,4 @@
-@relation pdbbindv2015-weka.filters.unsupervised.attribute.Remove-R1
+@relation pdbbindv2015-weka
 
 @attribute	a1	numeric
 @attribute	a2	numeric
